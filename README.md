@@ -10,4 +10,5 @@
 - 📫 How to reach me: LikdenIn @issaalhilali
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issaalhilali&layout=compact">
 
